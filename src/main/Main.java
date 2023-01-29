@@ -7,5 +7,6 @@ public class Main {
         new SelectionSort();  //calling selectionSort constructor
         new InsertionSort(); //calling insertionSort constructor
         new MergeSort();
+        new DescendingMergeSort();
     }
 }
