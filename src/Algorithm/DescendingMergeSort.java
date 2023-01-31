@@ -15,6 +15,7 @@ public class DescendingMergeSort {
         }
     }
 
+
     private void sort(int array[]){
         if(array.length <= 1){
             return;
