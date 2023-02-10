@@ -11,6 +11,8 @@ public class Main {
         */
 
         //new RecursiveSelectionSort();
-        new RecursiveInsertionSort();
+        //new RecursiveInsertionSort();
+        //new QuickSort();
+        new HeapSort();
     }
 }
